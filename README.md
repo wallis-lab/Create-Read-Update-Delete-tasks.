@@ -1,2 +1,2 @@
 # Create-Read-Update-Delete-tasks.
-Using java SQLiteDatabase to proform tasks.
+Using java SQLiteDatabase to perfrom tasks.
